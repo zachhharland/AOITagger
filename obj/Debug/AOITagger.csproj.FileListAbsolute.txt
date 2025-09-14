@@ -1,0 +1,8 @@
+C:\Users\ZacharyHarland\source\repos\AOITagger\bin\Debug\AOITagger.exe.config
+C:\Users\ZacharyHarland\source\repos\AOITagger\bin\Debug\AOITagger.exe
+C:\Users\ZacharyHarland\source\repos\AOITagger\bin\Debug\AOITagger.pdb
+C:\Users\ZacharyHarland\source\repos\AOITagger\obj\Debug\AOITagger.csproj.AssemblyReference.cache
+C:\Users\ZacharyHarland\source\repos\AOITagger\obj\Debug\AOITagger.csproj.CoreCompileInputs.cache
+C:\Users\ZacharyHarland\source\repos\AOITagger\obj\Debug\AOITagger.exe
+C:\Users\ZacharyHarland\source\repos\AOITagger\obj\Debug\AOITagger.pdb
+C:\Users\ZacharyHarland\source\repos\AOITagger\obj\Debug\AOITagger.exe.config
